@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "hjghjgh",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 7886,
+      "comment": "jbjb",
+      "date": "2022-09-13T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "This is fruit",
+      "date": "2022-09-11T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 250,
+      "comment": "this is not fresh",
+      "date": "2022-09-12T18:30:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
